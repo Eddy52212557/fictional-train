@@ -1,0 +1,14 @@
+
+
+1. **Crear el Archivo**:
+   - Asegúrate de que el archivo `README.md` esté creado en la raíz de tu repositorio.
+
+2. **Editar el Archivo**:
+   - Abre el archivo en tu editor de texto.
+   - Copia y pega el contenido del ejemplo anterior.
+   - Asegúrate de reemplazar `tu_usuario` en la URL de clonación con tu nombre de usuario de GitHub.
+
+3. **Guardar y Subir Cambios**:
+   - Guarda los cambios en el archivo.
+   - Usa los comandos de Git para agregar, hacer commit y subir el archivo a tu repositorio en GitHub.
+
